@@ -1,0 +1,11 @@
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.csprojAssemblyReference.cache
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.csproj.CoreCompileInputs.cache
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.AssemblyInfoInputs.cache
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.AssemblyInfo.cs
+C:\Users\Priya\workspace\MoneyChangeCal\bin\Debug\netcoreapp2.1\MoneyChangeCal.deps.json
+C:\Users\Priya\workspace\MoneyChangeCal\bin\Debug\netcoreapp2.1\MoneyChangeCal.runtimeconfig.json
+C:\Users\Priya\workspace\MoneyChangeCal\bin\Debug\netcoreapp2.1\MoneyChangeCal.runtimeconfig.dev.json
+C:\Users\Priya\workspace\MoneyChangeCal\bin\Debug\netcoreapp2.1\MoneyChangeCal.dll
+C:\Users\Priya\workspace\MoneyChangeCal\bin\Debug\netcoreapp2.1\MoneyChangeCal.pdb
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.dll
+C:\Users\Priya\workspace\MoneyChangeCal\obj\Debug\netcoreapp2.1\MoneyChangeCal.pdb
